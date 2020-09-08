@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/xusophia/xusophia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! Thanks for taking the time to explore my page! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Sophia Xu and I am a 3rd year Electrical and Computer Engineering major at the University of Texas at Austin (🤘). I'm interested in Embedded Systems and Signal Processing, and I hope to be able to apply these interests to engineer innovative products for a better society. I am a proven leader and team member, as I strive to always bring a positive and hardworking energy into my work. 
 
-### Markdown
+On campus, I am involved with the Society of Women Engineers, Women in Electrical and Computer Engineering, Texas Rocket Engineering Lab, and HKN (Electrical Engineering Honor Society). Outside of my schoolwork, I am passionate about empowering the next generation of women engineers, which is why I am the Vice President of Career Development for the UT Society of Women Engineers, as this provides me the opportunity to provide our members the necessary resources to find their future career or put on workshops to prepare them for the workplace. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xusophia/xusophia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This past summer (June 2020 - August 2020) I interned at Apple on the Bluetooth team as a Systems Engineering Intern. I worked on the Find My Network Accessory Reference Firmware.
